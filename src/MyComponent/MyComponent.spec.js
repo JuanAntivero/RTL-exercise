@@ -2,7 +2,7 @@ import MyComponent from './MyComponent';
 import { mount } from 'enzyme';
 import Rows from "./Rows";
 
-jest.mock("./Rows", () => 'Rows');
+jest.mock("./Rows", () => () => <div>Rows</div>);
 
 const props = {
     rows: [
