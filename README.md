@@ -15,3 +15,5 @@ El código simplemente genera una lista de valores la cual puede tener diferente
 Reescribir todos los test en react-testing-library, está todo configurado.
 
 El código tiene detalles de semántica, pueden tocar cualquier componente si le falta o le sobra algo.
+
+IGNORAR la carpeta "ClickWrapper" por ahora
