@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+}
+
+.blue-circle {
+  background-color: cornflowerblue;
+  border-radius: 50%;
+  padding: 10px;
+  width: 5px;
+  height: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.dropdown {
+  display: flex;
+  border: 1px solid black;
+}
+
+.clickPointer {
+  cursor: pointer;
+}
